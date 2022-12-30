@@ -6,7 +6,7 @@
 
 <h3 align="left">:satellite: Social media:</h3>
 <p align="left">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/manuel-fern%C3%A1ndez-hijicos-g%C3%B3mez/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
 </p>
