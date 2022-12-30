@@ -1,8 +1,19 @@
 ### Hi there 👋 I'm Manu Fernández
+##### Frontend Developer | ReactJS, Javascript, Typescript, Blockchain
+<img src="https://komarev.com/ghpvc/?username=manufdz19&style=flat-square&color=blue" alt=""/>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:hammer_and_wrench: Social media:</h3>
+<p align="left">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
+</p>
+
+---
+
+<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
