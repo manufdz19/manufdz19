@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="left">:hammer_and_wrench: Social media:</h3>
+<h3 align="left">:satellite: Social media:</h3>
 <p align="left">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
