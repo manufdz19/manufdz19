@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Manu Fernández
-##### Frontend Developer | ReactJS, Javascript, Typescript, Blockchain
+##### Frontend Developer | React JS, React Native, Next JS, Typescript, Blockchain
 <img src="https://komarev.com/ghpvc/?username=manufdz19&style=plastic&color=blue" alt=""/>
 
 ---
