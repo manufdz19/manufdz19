@@ -1,18 +1,11 @@
-<div align='center'>
-  <img align="center" width="140" style="border-radius: 100px;" src="assets/avatar.png" />
-  <div align="center" style="border: none; text-decoration: none; font-size: 20px; font-weight: 500">
-    Hi there 👋 I'm Manu Fernández
-  </div>
-  <div align="center" style="border: none; text-decoration: none; padding-bottom: 10px; font-size: 24px; font-weight: 500">
-    Frontend Developer
-  </div>
-  <div align="center" style="font-size: 14px; font-weight: 200; padding-bottom: 40px;">
-     React JS, React Native, Next JS, Typescript, Blockchain
-  </div>
-  <div align="center">
+<img align="center" src="assets/banner.png" />
+
+---
+
+<h3 align="left">📊 Stats:</h3>
+<div align="start">
     <img src="https://komarev.com/ghpvc/?username=manufdz19&style=plastic&color=blue" alt=""/>
   </div>
-</div>
 
 ---
 
